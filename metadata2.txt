@@ -1,1 +1,5 @@
-(10, 20)
+module.exports = { ... }
+{
+    key: 10,
+    key2: 20
+}
