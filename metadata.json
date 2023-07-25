@@ -1,3 +1,9 @@
-{"start": 10,
-            "end": 20}
+{
+   "Timestamp": 26526,
+            "ModerationLabel": {
+                "Confidence": 71.63748931884766,
+                "Name": "Barechested Male",
+                "ParentName": "Suggestive"
+            }
+        }
 
