@@ -1,0 +1,218 @@
+{
+    "JobStatus": "SUCCEEDED",
+    "VideoMetadata": {
+        "Codec": "h264",
+        "DurationMillis": 183558,
+        "Format": "QuickTime / MOV",
+        "FrameRate": 23.976024627685547,
+        "FrameHeight": 720,
+        "FrameWidth": 1280,
+        "ColorRange": "LIMITED"
+    },
+    "ModerationLabels": [
+        {
+            "Timestamp": 26026,
+            "ModerationLabel": {
+                "Confidence": 67.62979125976562,
+                "Name": "Violence",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 26026,
+            "ModerationLabel": {
+                "Confidence": 64.61975860595703,
+                "Name": "Weapon Violence",
+                "ParentName": "Violence"
+            }
+        },
+        {
+            "Timestamp": 26026,
+            "ModerationLabel": {
+                "Confidence": 67.48548126220703,
+                "Name": "Weapons",
+                "ParentName": "Violence"
+            }
+        },
+        {
+            "Timestamp": 26526,
+            "ModerationLabel": {
+                "Confidence": 50.376136779785156,
+                "Name": "Violence",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 87087,
+            "ModerationLabel": {
+                "Confidence": 58.78876876831055,
+                "Name": "Revealing Clothes",
+                "ParentName": "Suggestive"
+            }
+        },
+        {
+            "Timestamp": 87087,
+            "ModerationLabel": {
+                "Confidence": 58.78876876831055,
+                "Name": "Suggestive",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 89089,
+            "ModerationLabel": {
+                "Confidence": 84.67768859863281,
+                "Name": "Revealing Clothes",
+                "ParentName": "Suggestive"
+            }
+        },
+        {
+            "Timestamp": 89089,
+            "ModerationLabel": {
+                "Confidence": 84.67768859863281,
+                "Name": "Suggestive",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 89589,
+            "ModerationLabel": {
+                "Confidence": 87.90557861328125,
+                "Name": "Revealing Clothes",
+                "ParentName": "Suggestive"
+            }
+        },
+        {
+            "Timestamp": 89589,
+            "ModerationLabel": {
+                "Confidence": 87.90557861328125,
+                "Name": "Suggestive",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 90090,
+            "ModerationLabel": {
+                "Confidence": 80.70793914794922,
+                "Name": "Revealing Clothes",
+                "ParentName": "Suggestive"
+            }
+        },
+        {
+            "Timestamp": 90090,
+            "ModerationLabel": {
+                "Confidence": 80.70793914794922,
+                "Name": "Suggestive",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 104062,
+            "ModerationLabel": {
+                "Confidence": 61.77979278564453,
+                "Name": "Revealing Clothes",
+                "ParentName": "Suggestive"
+            }
+        },
+        {
+            "Timestamp": 104062,
+            "ModerationLabel": {
+                "Confidence": 61.78589630126953,
+                "Name": "Suggestive",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 106564,
+            "ModerationLabel": {
+                "Confidence": 66.80389404296875,
+                "Name": "Revealing Clothes",
+                "ParentName": "Suggestive"
+            }
+        },
+        {
+            "Timestamp": 106564,
+            "ModerationLabel": {
+                "Confidence": 66.804931640625,
+                "Name": "Suggestive",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 120286,
+            "ModerationLabel": {
+                "Confidence": 70.53331756591797,
+                "Name": "Revealing Clothes",
+                "ParentName": "Suggestive"
+            }
+        },
+        {
+            "Timestamp": 120286,
+            "ModerationLabel": {
+                "Confidence": 70.53331756591797,
+                "Name": "Suggestive",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 120787,
+            "ModerationLabel": {
+                "Confidence": 75.82906341552734,
+                "Name": "Revealing Clothes",
+                "ParentName": "Suggestive"
+            }
+        },
+        {
+            "Timestamp": 120787,
+            "ModerationLabel": {
+                "Confidence": 75.82906341552734,
+                "Name": "Suggestive",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 122789,
+            "ModerationLabel": {
+                "Confidence": 65.09624481201172,
+                "Name": "Revealing Clothes",
+                "ParentName": "Suggestive"
+            }
+        },
+        {
+            "Timestamp": 122789,
+            "ModerationLabel": {
+                "Confidence": 65.09624481201172,
+                "Name": "Suggestive",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 148815,
+            "ModerationLabel": {
+                "Confidence": 65.7481918334961,
+                "Name": "Revealing Clothes",
+                "ParentName": "Suggestive"
+            }
+        },
+        {
+            "Timestamp": 148815,
+            "ModerationLabel": {
+                "Confidence": 65.7481918334961,
+                "Name": "Suggestive",
+                "ParentName": ""
+            }
+        }
+    ],
+    "ModerationModelVersion": "6.1",
+    "JobId": "f26c11263a4a7d14e1a5f465715ecc04f4d14afa6b8b84a4437ce61908089bc2",
+    "Video": {
+        "S3Object": {
+            "Bucket": "softscreen",
+            "Name": "Clip.mp4"
+        }
+    },
+    "GetRequestMetadata": {
+        "SortBy": "TIMESTAMP",
+        "AggregateBy": "TIMESTAMPS"
+    }
+}
