@@ -1,9 +1,72 @@
 {
-   "Timestamp": 26526,
+            "Timestamp": 8008,
             "ModerationLabel": {
-                "Confidence": 71.63748931884766,
+                "Confidence": 56.38576889038086,
+                "Name": "Barechested Male",
+                "ParentName": "Suggestive"
+            }
+        },
+        {
+            "Timestamp": 8008,
+            "ModerationLabel": {
+                "Confidence": 56.385772705078125,
+                "Name": "Suggestive",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 9509,
+            "ModerationLabel": {
+                "Confidence": 55.71796798706055,
+                "Name": "Barechested Male",
+                "ParentName": "Suggestive"
+            }
+        },
+        {
+            "Timestamp": 9509,
+            "ModerationLabel": {
+                "Confidence": 55.71796798706055,
+                "Name": "Suggestive",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 10510,
+            "ModerationLabel": {
+                "Confidence": 71.45449829101562,
+                "Name": "Barechested Male",
+                "ParentName": "Suggestive"
+            }
+        },
+        {
+            "Timestamp": 10510,
+            "ModerationLabel": {
+                "Confidence": 71.45450592041016,
+                "Name": "Suggestive",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 23523,
+            "ModerationLabel": {
+                "Confidence": 52.59256362915039,
+                "Name": "Barechested Male",
+                "ParentName": "Suggestive"
+            }
+        },
+        {
+            "Timestamp": 23523,
+            "ModerationLabel": {
+                "Confidence": 52.59256362915039,
+                "Name": "Suggestive",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 24024,
+            "ModerationLabel": {
+                "Confidence": 78.82850646972656,
                 "Name": "Barechested Male",
                 "ParentName": "Suggestive"
             }
         }
-
