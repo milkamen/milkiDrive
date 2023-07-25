@@ -1,4 +1,4 @@
-"ModerationLabels": [{
+{"ModerationLabels": [{
             "Timestamp": 8008,
             "ModerationLabel": {
                 "Confidence": 56.38576889038086,
@@ -70,4 +70,4 @@
                 "ParentName": "Suggestive"
             }
         }
-]
+]}
