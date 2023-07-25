@@ -1,4 +1,4 @@
-{
+"ModerationLabels": [{
             "Timestamp": 26026,
             "ModerationLabel": {
                 "Confidence": 51.27320098876953,
@@ -13,4 +13,5 @@
                 "Name": "Barechested Male",
                 "ParentName": "Suggestive"
             }
-        },
+        }
+]
