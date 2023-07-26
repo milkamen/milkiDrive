@@ -1,0 +1,282 @@
+{
+    "JobStatus": "SUCCEEDED",
+    "VideoMetadata": {
+        "Codec": "h264",
+        "DurationMillis": 202327,
+        "Format": "QuickTime / MOV",
+        "FrameRate": 23.976024627685547,
+        "FrameHeight": 720,
+        "FrameWidth": 1280,
+        "ColorRange": "LIMITED"
+    },
+    "ModerationLabels": [
+        {
+            "Timestamp": 33533,
+            "ModerationLabel": {
+                "Confidence": 52.753089904785156,
+                "Name": "Barechested Male",
+                "ParentName": "Suggestive"
+            }
+        },
+        {
+            "Timestamp": 33533,
+            "ModerationLabel": {
+                "Confidence": 52.75492477416992,
+                "Name": "Suggestive",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 92675,
+            "ModerationLabel": {
+                "Confidence": 71.89693450927734,
+                "Name": "Smoking",
+                "ParentName": "Tobacco"
+            }
+        },
+        {
+            "Timestamp": 92675,
+            "ModerationLabel": {
+                "Confidence": 71.89693450927734,
+                "Name": "Tobacco",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 107649,
+            "ModerationLabel": {
+                "Confidence": 73.20237731933594,
+                "Name": "Physical Violence",
+                "ParentName": "Violence"
+            }
+        },
+        {
+            "Timestamp": 107649,
+            "ModerationLabel": {
+                "Confidence": 73.21226501464844,
+                "Name": "Violence",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 108149,
+            "ModerationLabel": {
+                "Confidence": 73.75830078125,
+                "Name": "Physical Violence",
+                "ParentName": "Violence"
+            }
+        },
+        {
+            "Timestamp": 108149,
+            "ModerationLabel": {
+                "Confidence": 73.76423645019531,
+                "Name": "Violence",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 111653,
+            "ModerationLabel": {
+                "Confidence": 66.61717224121094,
+                "Name": "Alcohol",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 111653,
+            "ModerationLabel": {
+                "Confidence": 66.61454010009766,
+                "Name": "Drinking",
+                "ParentName": "Alcohol"
+            }
+        },
+        {
+            "Timestamp": 113154,
+            "ModerationLabel": {
+                "Confidence": 59.52675247192383,
+                "Name": "Smoking",
+                "ParentName": "Tobacco"
+            }
+        },
+        {
+            "Timestamp": 113154,
+            "ModerationLabel": {
+                "Confidence": 59.52675247192383,
+                "Name": "Tobacco",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 114155,
+            "ModerationLabel": {
+                "Confidence": 79.4245834350586,
+                "Name": "Smoking",
+                "ParentName": "Tobacco"
+            }
+        },
+        {
+            "Timestamp": 114155,
+            "ModerationLabel": {
+                "Confidence": 79.4245834350586,
+                "Name": "Tobacco",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 115156,
+            "ModerationLabel": {
+                "Confidence": 78.40081787109375,
+                "Name": "Smoking",
+                "ParentName": "Tobacco"
+            }
+        },
+        {
+            "Timestamp": 115156,
+            "ModerationLabel": {
+                "Confidence": 78.42764282226562,
+                "Name": "Tobacco",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 118660,
+            "ModerationLabel": {
+                "Confidence": 53.85939025878906,
+                "Name": "Barechested Male",
+                "ParentName": "Suggestive"
+            }
+        },
+        {
+            "Timestamp": 118660,
+            "ModerationLabel": {
+                "Confidence": 53.860164642333984,
+                "Name": "Suggestive",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 118910,
+            "ModerationLabel": {
+                "Confidence": 86.71573638916016,
+                "Name": "Barechested Male",
+                "ParentName": "Suggestive"
+            }
+        },
+        {
+            "Timestamp": 118910,
+            "ModerationLabel": {
+                "Confidence": 86.71605682373047,
+                "Name": "Suggestive",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 119160,
+            "ModerationLabel": {
+                "Confidence": 92.28734588623047,
+                "Name": "Barechested Male",
+                "ParentName": "Suggestive"
+            }
+        },
+        {
+            "Timestamp": 119160,
+            "ModerationLabel": {
+                "Confidence": 92.28734588623047,
+                "Name": "Suggestive",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 119410,
+            "ModerationLabel": {
+                "Confidence": 94.08012390136719,
+                "Name": "Barechested Male",
+                "ParentName": "Suggestive"
+            }
+        },
+        {
+            "Timestamp": 119410,
+            "ModerationLabel": {
+                "Confidence": 94.08380889892578,
+                "Name": "Suggestive",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 119661,
+            "ModerationLabel": {
+                "Confidence": 85.0948486328125,
+                "Name": "Barechested Male",
+                "ParentName": "Suggestive"
+            }
+        },
+        {
+            "Timestamp": 119661,
+            "ModerationLabel": {
+                "Confidence": 85.1040267944336,
+                "Name": "Suggestive",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 128419,
+            "ModerationLabel": {
+                "Confidence": 62.17377471923828,
+                "Name": "Barechested Male",
+                "ParentName": "Suggestive"
+            }
+        },
+        {
+            "Timestamp": 128419,
+            "ModerationLabel": {
+                "Confidence": 62.17472839355469,
+                "Name": "Suggestive",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 155947,
+            "ModerationLabel": {
+                "Confidence": 66.82241821289062,
+                "Name": "Barechested Male",
+                "ParentName": "Suggestive"
+            }
+        },
+        {
+            "Timestamp": 155947,
+            "ModerationLabel": {
+                "Confidence": 66.82533264160156,
+                "Name": "Suggestive",
+                "ParentName": ""
+            }
+        },
+        {
+            "Timestamp": 157949,
+            "ModerationLabel": {
+                "Confidence": 70.63336181640625,
+                "Name": "Barechested Male",
+                "ParentName": "Suggestive"
+            }
+        },
+        {
+            "Timestamp": 157949,
+            "ModerationLabel": {
+                "Confidence": 70.63410949707031,
+                "Name": "Suggestive",
+                "ParentName": ""
+            }
+        }
+    ],
+    "ModerationModelVersion": "6.1",
+    "JobId": "5497a83b267d9153b9c5a701776671280bd8c251f3e4a2c5f4f01718f44fae6b",
+    "Video": {
+        "S3Object": {
+            "Bucket": "softscreen",
+            "Name": "Clip 2.mp4"
+        }
+    },
+    "GetRequestMetadata": {
+        "SortBy": "TIMESTAMP",
+        "AggregateBy": "TIMESTAMPS"
+    }
+}
